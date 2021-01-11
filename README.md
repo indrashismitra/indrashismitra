@@ -1,8 +1,9 @@
 ### Hi there 👋
-
+I'm Indrashis currently a Third Year EEE student at @KIIT 🏫 . Currently I'm working on Embedded systems and applications of IOT. Occasionally I participate in Hackathons 💡 and I have a complicated relationship with Programming 😐
+ 📫 How to reach me: ...https://www.linkedin.com/in/indrashis-mitra/
 <!--
 **indrashismitra/indrashismitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm Indrashis currently a Third Year EEE student at @KIIT 🏫 . Currently I'm working on Embedded systems and applications of IOT. Occasionally I participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...https://www.linkedin.com/in/indrashis-mitra/
+-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
