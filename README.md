@@ -4,6 +4,8 @@ I'm Indrashis currently a Third Year EEE student at @KIIT 🏫 .
 Currently I'm working on Embedded systems and applications of IOT. 
 Occasionally I participate in Hackathons 💡 and I have a complicated relationship with Programming 😐
  📫 How to reach me: ...https://www.linkedin.com/in/indrashis-mitra/
+ 
+ 
   https://github-readme-stats.vercel.app/api?username=indrashismitra&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=ffc984&bg_color=151515
 <!--
 **indrashismitra/indrashismitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
