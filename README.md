@@ -3,7 +3,8 @@
  
  Occasionally I participate in Hackathons 💡 
 
-I believe that # Everything is chaos 
+I believe that
+# Everything is chaos 
 👯 I’m looking to collaborate on anything and everything that piques my interest :P
 
 
