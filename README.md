@@ -14,6 +14,7 @@ I believe that
   ![image](https://user-images.githubusercontent.com/48444783/111942687-ce720200-8af9-11eb-9dfa-9731379b98d9.png)
   
   https://github-readme-stats.vercel.app/api/top-langs/?username=indrashismitra
+![image](https://user-images.githubusercontent.com/48444783/111946732-14cb5f00-8b02-11eb-9e29-0653428be587.png)
 
 
 ⚡ Fun fact: I can probably beat you at a burping competition XD
