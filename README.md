@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Indrashis currently a Third Year EEE student at @KIIT 🏫 . 
-Currently I'm working on Embedded systems and applications of IOT. 
-Occasionally I participate in Hackathons 💡 and I have a complicated relationship with Programming 😐
+# I'm Indrashis,currently a Junior Year EEE student at KIIT 🏫 . 
+ 
+ Occasionally I participate in Hackathons 💡 
+
+I believe that # Everything is chaos 
 
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/
 
