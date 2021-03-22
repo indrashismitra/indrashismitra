@@ -4,9 +4,10 @@ Currently I'm working on Embedded systems and applications of IOT.
 Occasionally I participate in Hackathons 💡 and I have a complicated relationship with Programming 😐
 
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/
- ![image](https://user-images.githubusercontent.com/48444783/104816575-219daf00-5842-11eb-95ad-5ee1a18d38aa.png)
 
-  https://github-readme-stats.vercel.app/api?username=indrashismitra&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=ffc984&bg_color=151515
+
+  ![image](https://user-images.githubusercontent.com/48444783/111942687-ce720200-8af9-11eb-9dfa-9731379b98d9.png)
+
 <!--
 **indrashismitra/indrashismitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
