@@ -10,9 +10,9 @@ I believe that
 
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/
 
+![image](https://user-images.githubusercontent.com/48444783/112086865-fe311080-8bb2-11eb-931a-9f5b362652fb.png)
 
-  ![image](https://user-images.githubusercontent.com/48444783/111942687-ce720200-8af9-11eb-9dfa-9731379b98d9.png)
-  
+ 
   https://github-readme-stats.vercel.app/api/top-langs/?username=indrashismitra
 ![image](https://user-images.githubusercontent.com/48444783/111946732-14cb5f00-8b02-11eb-9e29-0653428be587.png)
 
