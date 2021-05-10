@@ -10,7 +10,8 @@ I believe that
 
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/
 
-![image](https://user-images.githubusercontent.com/48444783/112086865-fe311080-8bb2-11eb-931a-9f5b362652fb.png)
+![image](![image](https://user-images.githubusercontent.com/48444783/117696342-d1769e00-b1de-11eb-8d82-9ab8be556a12.png)
+)
 
  
   https://github-readme-stats.vercel.app/api/top-langs/?username=indrashismitra
