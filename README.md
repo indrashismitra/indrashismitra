@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Indrashis,currently a Senior Year EEE student at KIIT Deemed to be University,Bhubaneshwar🏫 . 
+## I'm Indrashis,currently a Senior Year EEE student at KIIT Deemed to be University,Bhubaneshwar🏫 . 
  
  Occasionally I participate in Hackathons 💡 
 
