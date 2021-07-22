@@ -7,8 +7,8 @@
 👯 I’m looking to collaborate during hackathons
 
 
- 📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/
-
+ 📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/    https://www.polywork.com/inm8
+                     
 
 ![image](https://user-images.githubusercontent.com/48444783/126359277-be7205fe-447f-49cd-90ef-fbe884013685.png)
 
