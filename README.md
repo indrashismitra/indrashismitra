@@ -10,7 +10,9 @@
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/    https://www.polywork.com/inm8
                      
 
-![image](https://user-images.githubusercontent.com/48444783/126359277-be7205fe-447f-49cd-90ef-fbe884013685.png)
+
+![image](https://user-images.githubusercontent.com/48444783/135718978-d56d0e05-1f19-47c3-bbce-786c42dac2e4.png)
+
 
 
  
@@ -22,7 +24,7 @@
  
  🤔 I’m looking for help with competitve programming,data structures :P
 
-⚡ Fun fact: I can probably beat you at a burping competition XD
+
 <!--
 **indrashismitra/indrashismitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
