@@ -19,7 +19,7 @@
  
   https://github-readme-stats.vercel.app/api/top-langs/?username=indrashismitra
   
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/48444783/142770736-ab697a21-b96b-4e86-9412-ac5bd11820ed.png">
+
 
  🌱 I’m currently expanding my knowledge of Machine Learning and Cloud computing. I've worked in 30 days of Google Cloud Program as well as Google Cloud Ready Facilitaor. And presently learning AWS.
  
