@@ -7,7 +7,9 @@
 👯 I’m looking to collaborate during hackathons
 
 
- 📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/    https://www.polywork.com/inm8
+ 📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/   
+                 
+   https://www.polywork.com/inm8
                      
 
 
@@ -22,9 +24,7 @@
   
 
 
- 🌱 I’m currently expanding my knowledge of Machine Learning and Cloud computing. I've worked in 30 days of Google Cloud Program as well as Google Cloud Ready Facilitaor. And presently learning AWS.
- 
- 🤔 I’m looking for help with competitve programming,data structures :P
+ 🌱 I’m currently expanding my knowledge of Machine Learning and Cloud computing. I've worked in 30 days of Google Cloud Program as well as Google Cloud Ready Facilitaor. And presently learning AWS. Believe that women should be given more options to excel in STEM, and life in general. 
 
 
 <!--
