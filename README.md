@@ -1,11 +1,6 @@
-### Hi there 👋
-## I'm Indrashis,currently a Senior Year EEE student at KIIT Deemed to be University,Bhubaneshwar🏫 . 
+### Hi there 👋🏫 . 
  
  I love to keep on learning about new trends in tech 💡 
-
-# Everything is chaos 
-👯 I’m looking to collaborate during hackathons
-
 
  📫 How to reach me: https://www.linkedin.com/in/indrashis-mitra/   
                  
@@ -25,7 +20,7 @@
   
 
 
- 🌱 I’m currently expanding my knowledge of Machine Learning and Cloud computing. I've worked in 30 days of Google Cloud Program as well as Google Cloud Ready Facilitaor. And presently learning AWS. Believe that women should be given more options to excel in STEM, and life in general. 
+ 🌱 I’m currently expanding my knowledge of Machine Learning and Cloud computing. I've worked in 30 days of Google Cloud Program as well as Google Cloud Ready Facilitaor. And presently learning AWS.  
 
 
 <!--
